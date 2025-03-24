@@ -62,7 +62,7 @@ const ReportForm = () => {
                 <Typography
                   sx={{ mb: 1.5, fontSize: "22px",textAlign:"center" }}
                 >
-                  junio 05, 2024 a las 11h30
+                  Marrzo 25, 2025 a las 11h30
                 </Typography>
                 <Typography
                   variant="body2"
